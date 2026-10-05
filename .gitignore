@@ -1,0 +1,16 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Practice scripts (not part of the reported analysis)
+*_practice.py
